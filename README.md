@@ -1,1 +1,1 @@
-# chatbot
+This is a payment chatbot which is made using React.js, AWS and Blockchain. It lets you send decentralised payments.
